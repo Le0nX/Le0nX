@@ -1,6 +1,4 @@
-# Denis Nefedov
-
-**Reliability, Verification & Safety of AI Agents**
+# Reliability, Verification & Safety of AI Agents
 
 After ~9 years building safety-critical systems - triple-modular-redundancy UAV avionics, regulated medical-device SDKs, secure banking - I now apply that reliability discipline to AI agents, at the point where a model's output becomes a consequential action (send, pay, modify, disclose, tool call.
 
